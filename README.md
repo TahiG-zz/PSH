@@ -9,24 +9,26 @@ PSH is a single-purpose, single button app for iOS and Android. It has one butto
 
 ## How
 PSH has a heavy focus on design and intuitive user experience. 
-The app leverages the best in UX/UI, visual FX and haptic feedback to deliver the most satisfying experience to users.
-The app will be ad free and free to download.
+The app leverages the best in UX/UI, visual FX and haptic feedback to deliver the a satisfying sensory experience.
+The app is ad free and free to download.
 
 ## Who
 ### Primary Users:
 - 14-28 year olds
-- Moderately tech-savvy
+- Highly social/tech savvy
 - Inner city
-- Multi-Cultural
+- Multi-cultural
+– Highly social
+– Brand loyal
 
 
 #### Partnerships:
 Via brand partnerships, PSH could give users early/exclusive access to:
-- pre-release music
-- dining out coupons
-– digital gift cards
-- retail discounts
-– cryptocurrency giveaways/airdrops
+- Pre-release music
+- Dining out coupons
+– Digital gift cards
+- Retail discounts
+– Cryptocurrency giveaways/airdrops
 
 PSH was originally dreamt up by myself and digital designer Wilson Lam. It is licenced under a Creative Commons Attribution licence.
 
